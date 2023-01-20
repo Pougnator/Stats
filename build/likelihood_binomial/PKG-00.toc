@@ -55,27 +55,19 @@
   ('likelihood_binomial',
    'C:\\Repos Surface\\Dev Perso\\Stats\\likelihood_binomial.py',
    'PYSOURCE'),
-  ('python39.dll', 'C:\\Python39\\python39.dll', 'BINARY'),
   ('VCRUNTIME140.dll', 'C:\\Python39\\VCRUNTIME140.dll', 'BINARY'),
+  ('python39.dll', 'C:\\Python39\\python39.dll', 'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\bin\\opengl32sw.dll',
-   'C:\\Repos Surface\\Dev '
-   'Perso\\Stats\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\opengl32sw.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
    'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
    'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
    'C:\\repos surface\\dev '
@@ -85,17 +77,37 @@
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
    'BINARY'),
-  ('scipy.libs\\libopenblas-802f9ed1179cb9c9b03d67ff79f48187.dll',
+  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.21-gcc_10_3_0.dll',
    'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\scipy.libs\\libopenblas-802f9ed1179cb9c9b03d67ff79f48187.dll',
+   'perso\\stats\\.venv\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
    'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+  ('PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
    'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'C:\\Repos Surface\\Dev '
+   'Perso\\Stats\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
    'C:\\repos surface\\dev '
@@ -105,33 +117,21 @@
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
    'BINARY'),
-  ('libopenblas64__v0.3.21-gcc_10_3_0.dll',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
-   'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
    'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('scipy.libs\\libopenblas-802f9ed1179cb9c9b03d67ff79f48187.dll',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\scipy.libs\\libopenblas-802f9ed1179cb9c9b03d67ff79f48187.dll',
+   'BINARY'),
   ('PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\styles\\qwindowsvistastyle.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
    'BINARY'),
   ('_multiprocessing.pyd',
    'C:\\Python39\\DLLs\\_multiprocessing.pyd',
@@ -606,15 +606,15 @@
    'c:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
    'BINARY'),
-  ('VCRUNTIME140_1.dll', 'C:\\Python39\\VCRUNTIME140_1.dll', 'BINARY'),
-  ('PyQt6\\Qt6\\bin\\MSVCP140.dll',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140.dll',
-   'BINARY'),
   ('PyQt6\\Qt6\\bin\\Qt6Svg.dll',
    'c:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
    'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\Python39\\VCRUNTIME140_1.dll', 'BINARY'),
   ('PyQt6\\Qt6\\bin\\Qt6Network.dll',
    'c:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Network.dll',
@@ -643,9 +643,41 @@
    'C:\\Repos Surface\\Dev '
    'Perso\\Stats\\build\\likelihood_binomial\\base_library.zip',
    'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'DATA'),
   ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
    'C:\\repos surface\\dev '
@@ -655,17 +687,49 @@
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qscintilla.cpython-39.pyc',
+  ('PyQt6\\uic\\widget-plugins\\qscintilla.py',
    'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qscintilla.cpython-39.pyc',
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qscintilla.py',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
    'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtprintsupport.py',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtprintsupport.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qaxcontainer.py',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qaxcontainer.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtcharts.cpython-39.pyc',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtcharts.cpython-39.pyc',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qaxcontainer.cpython-39.pyc',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qaxcontainer.cpython-39.pyc',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtwebenginewidgets.cpython-39.pyc',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtwebenginewidgets.cpython-39.pyc',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
    'DATA'),
   ('PyQt6\\uic\\widget-plugins\\qtwebenginewidgets.py',
    'c:\\repos surface\\dev '
@@ -675,141 +739,77 @@
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtcharts.cpython-39.pyc',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtcharts.cpython-39.pyc',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtprintsupport.cpython-39.pyc',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtprintsupport.cpython-39.pyc',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtwebenginewidgets.cpython-39.pyc',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtwebenginewidgets.cpython-39.pyc',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\qtprintsupport.py',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtprintsupport.py',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\qaxcontainer.py',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qaxcontainer.py',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
-   'DATA'),
-  ('scipy.libs\\.load-order-scipy-1.10.0',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\scipy.libs\\.load-order-scipy-1.10.0',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\qtcharts.py',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtcharts.py',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
-   'DATA'),
   ('PyQt6\\uic\\widget-plugins\\qtquickwidgets.py',
    'c:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtquickwidgets.py',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\qscintilla.py',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qscintilla.py',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtquickwidgets.cpython-39.pyc',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtquickwidgets.cpython-39.pyc',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
-   'DATA'),
-  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qaxcontainer.cpython-39.pyc',
-   'c:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qaxcontainer.cpython-39.pyc',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
-   'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qtbase_ar.qm',
    'C:\\repos surface\\dev '
    'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ar.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
    'C:\\repos surface\\dev '
-   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtcharts.py',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtcharts.py',
+   'DATA'),
+  ('scipy.libs\\.load-order-scipy-1.10.0',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\scipy.libs\\.load-order-scipy-1.10.0',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtprintsupport.cpython-39.pyc',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtprintsupport.cpython-39.pyc',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qscintilla.cpython-39.pyc',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qscintilla.cpython-39.pyc',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'C:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\__pycache__\\qtquickwidgets.cpython-39.pyc',
+   'c:\\repos surface\\dev '
+   'perso\\stats\\.venv\\lib\\site-packages\\PyQt6\\uic\\widget-plugins\\__pycache__\\qtquickwidgets.cpython-39.pyc',
    'DATA')],
  False,
  False,

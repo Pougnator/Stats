@@ -83,7 +83,12 @@ class UI(QMainWindow):
             self.pvalue_v2.setText(str(round(p2,2)))
             self.pvalue_v3.setText(str(round(p3,2)))
 
-
+            if p1 < alpha_level or p2 < alpha_level or p2 < alpha_level:
+                    
+                self.label_result.setStyleSheet('QWidget{\ncolor: rgb(10, 255, 10);}')
+                self.label_result.setText("There is a significant difference between the populations at 0.85 confidence level")
+            else: 
+                self.label_result.setText("There is no significant difference between populations at 0.85 confidence level ")
         
 
 
