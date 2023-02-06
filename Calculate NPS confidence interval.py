@@ -185,10 +185,10 @@ def NPS_density_augmented(N, oprom,odet):
 
 
 if __name__ == "__main__":
-    test_array = NPS_density_augmented(28, 22, 2)
+    test_array = NPS_density_augmented(12, 9, 1)
     print(test_array)
     msum = 0
     for x in test_array:
         msum = msum + x[1]
         print (msum)
-    calculate_CI_augmented(22,2,28,0.05, test_array)
+    #calculate_CI_augmented(9,1,12,0.05, test_array)
